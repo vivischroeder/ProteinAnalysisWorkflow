@@ -1,10 +1,10 @@
-\*\*Protein Analysis Workflow\*\*
+#Protein Analysis Workflow
 
-\*About\*
+##About
 
 This notebook aims to automate the collection of RMSD values of variants of drugs simulated against variants of HIV
 
-\*Environment startup\*
+##Environment startup
 
 Create virtual environment:
 python -m venv .venv
